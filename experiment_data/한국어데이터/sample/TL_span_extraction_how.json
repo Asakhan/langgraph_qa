@@ -1,0 +1,237 @@
+{
+	"Dataset": {
+		"Identifier": "TextQA_Administrator_Doc_01",
+		"name": "행정문서 대상 기계독해 데이터",
+		"src_path": "/dataSet/text/",
+		"label_path": "/dataSet/text/",
+		"category": 2,
+		"type": 0
+	},
+	"data": [
+		{
+			"doc_id": "D0000042799403",
+			"doc_title": "2021년 드림스타트 아동 건강검진 지원 계획",
+			"doc_source": "서울특별시청",
+			"doc_published": 20210618,
+			"doc_class": {
+				"class": "중앙행정기관 분류체계",
+				"code": "사회복지"
+			},
+			"created": "20220422150201",
+			"paragraphs": [
+				{
+					"context": "제목 2021년 드림스타트 아동 건강검진 지원 계획\nⅠ 사업개요\n추진배경 : 아동의 건강한 성장·발달을 지원하기 위한 드림스타트 필수서비스\n기간 : 2021. 6. 18. ~ 8. 30.\n대상 : 28명(만6~12세 드림스타트 대상 중 통합사례회의를 통해 선정한 건강검진이 필요한 아동)\n내용 : 장비검사 및 소변검사 등을 통한 75가지 항목의 건강검진 지원\n검진기관 : KMI한국의학연구소 강남 검진센터(강남구 삼성동 소재)\n지원금액 : 1인당 ********(검진금액 전액 지원)\n소요예산 : *******(구비100%)\nⅡ 2020년 아동건강검진 운영결과 \n건강검진 수검 아동 : 25명\n2020년 아동건강검진 개요\n❍ 기간 : 2020. 5. 4. ~ 5. 30.\n❍ 대상 : 25명(드림스타트 대상 중 통합사례화의를 통해 선정)\n❍ 검진기관 : KMI한국의학연구소 강남 검진센터(원장 ***)\n❍ 검진항목 : 복부·신장, 초음파검사, 소변검사, 성장발달검사, 영양상담 등\n❍ 검진결과 및 사후관리(병원)\n - 검사 및 상담 완료 후 검사결과를 아동 가구에 개별 통보",
+					"qas": [
+						{
+							"qa_type": 2,
+							"question_id": "5286397",
+							"question": "2020년 아동건강검진 사후관리는 어떻게 실행하지",
+							"is_impossible": false,
+							"answers": {
+								"text": "검사 및 상담 완료 후 검사결과를 아동 가구에 개별 통보",
+								"answer_start": 514,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						},
+						{
+							"qa_type": 2,
+							"question_id": "5286398",
+							"question": "어떤 방법으로 2020년 아동건강검진 사후관리를 실시하니",
+							"is_impossible": false,
+							"answers": {
+								"text": "검사 및 상담 완료 후 검사결과를 아동 가구에 개별 통보",
+								"answer_start": 514,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						}
+					],
+					"context_id": "398312"
+				}
+			]
+		},
+		{
+			"doc_id": "D0000042818618",
+			"doc_title": "2021년 강북구민대상 추진 계획",
+			"doc_source": "서울특별시청",
+			"doc_published": 20210622,
+			"doc_class": {
+				"class": "중앙행정기관 분류체계",
+				"code": "공공행정"
+			},
+			"created": "20220422150201",
+			"paragraphs": [
+				{
+					"context": "2021년 강북구민대상 추진 계획\n3 세부일정\n2021. 7. 1. ~ 8. 31. : 후보자 추천(접수) 및 공고\n2021. 9. 3. ~ 9. 10. : 후보자 공적사실 조사\n2021. 9. 24.(예정) : 구민대상 심사위원회 개최\n2021. 10월 중 : 강북구민대상 시상\n※ 수상자 관리 (구 홈페이지 「자랑스런 강북인」게시)\n- 부문별 수상자 성명, 거주동(수상당시), 공적 내용 등 게시\n- 수상자 동의 후 연도별 수상자 게시(현재 71명 등록)",
+					"qas": [
+						{
+							"qa_type": 2,
+							"question_id": "5292917",
+							"question": "2021년 강북구민대상에 수상자를 게시할 때 어떻게 할 계획이니",
+							"is_impossible": false,
+							"answers": {
+								"text": "수상자 동의 후 연도별",
+								"answer_start": 226,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						},
+						{
+							"qa_type": 2,
+							"question_id": "5292918",
+							"question": "2021년 강북구민대상에 어떤 방법으로 수상자를 게시할 예정이야",
+							"is_impossible": false,
+							"answers": {
+								"text": "수상자 동의 후 연도별",
+								"answer_start": 226,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						}
+					],
+					"context_id": "398411"
+				}
+			]
+		},
+		{
+			"doc_id": "D0000042808706",
+			"doc_title": "2021년 문화정책개발 및 지원사업 예산조정",
+			"doc_source": "서울특별시청",
+			"doc_published": 20210619,
+			"doc_class": {
+				"class": "중앙행정기관 분류체계",
+				"code": "기타"
+			},
+			"created": "20220422150201",
+			"paragraphs": [
+				{
+					"context": "제목 2021년 문화정책개발 및 지원사업 예산조정\n1. 미래전략팀-264(2021.06.17.) “2021년 문화정책개발 및 지원 사업 및 예산변경 계획(안)”관련입니다.\n2. 효율적인 업무 추진을 위하여 다음과 같이 예산을 변경하여 사용하고자 합니다.\n가. 건명: 2021년 문화정책개발 및 지원사업 예산조정\n나. 사유: 2019년부터 대표이사 주재로 추진하고 있던 정책라운드테이블 운영 및 인사팀 연구의 당해연도 추진이 어려워짐에 따라 해당 예산을 정책전략 개발을 위한 연구개발비로 변경 활용\n",
+					"qas": [
+						{
+							"qa_type": 2,
+							"question_id": "5288337",
+							"question": "미래전략팀은 정책라운드테이블 운영 및 인사팀 연구의 추진이 어려워짐에 따라 어떻게 하려고 하니",
+							"is_impossible": false,
+							"answers": {
+								"text": "해당 예산을 정책전략 개발을 위한 연구개발비로 변경 활용",
+								"answer_start": 246,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						},
+						{
+							"qa_type": 2,
+							"question_id": "5288338",
+							"question": "정책라운드테이블 운영 및 인사팀 연구의 당해연도 진행이 어려워짐에 따라 미래전략팀은 어떻게 하려고 하지",
+							"is_impossible": false,
+							"answers": {
+								"text": "해당 예산을 정책전략 개발을 위한 연구개발비로 변경 활용",
+								"answer_start": 246,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						}
+					],
+					"context_id": "398443"
+				}
+			]
+		},
+		{
+			"doc_id": "D0000042799730",
+			"doc_title": "송신소 현장방문(견학) 계획(안)",
+			"doc_source": "서울특별시청",
+			"doc_published": 20210618,
+			"doc_class": {
+				"class": "중앙행정기관 분류체계",
+				"code": "기타"
+			},
+			"created": "20220422150201",
+			"paragraphs": [
+				{
+					"context": "송신소 현장방문(견학) 계획(안)\n개요\n○ 일시 : 2021. 6. 18.(금) 13:00~18:00 \n○ 장소 : TBS 관악산 송신소\n○ 방문자 : 총 7명 (경영지원본부 4명, 방송기술본부 1명)\n- (경영지원본부) 경영지원본부장, 인재지원팀장, 총무팀 1명, 인재지원팀 1명\n- (방송기술본부) 송출팀장\n○ 방문내용 : 관악산 송신소 현장근무자 근무실태 확인 및 애로사항 청취\n○ 이동방법 : 관용차량 이용(총무팀 협조)\n행정사항\n○ 현장방문 안내 및 견학 협조 : 방송기술본부 송출팀\n○ 이동차량 지원 : 총무팀",
+					"qas": [
+						{
+							"qa_type": 2,
+							"question_id": "5288947",
+							"question": "관악산 송신소 현장근무자의 근무실태를 확인하기 위해 어떤 방법을 통해 움직이지",
+							"is_impossible": false,
+							"answers": {
+								"text": "관용차량 이용(총무팀 협조)",
+								"answer_start": 225,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						},
+						{
+							"qa_type": 2,
+							"question_id": "5288948",
+							"question": "어떤 방법을 통해 관악산 송신소 현장근무자의 근무실태를 확인하기 위해 이동해",
+							"is_impossible": false,
+							"answers": {
+								"text": "관용차량 이용(총무팀 협조)",
+								"answer_start": 225,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						}
+					],
+					"context_id": "398463"
+				}
+			]
+		},
+		{
+			"doc_id": "D0000042830832",
+			"doc_title": "2021년 5월 감염관련 정기순회 결과보고",
+			"doc_source": "서울특별시청",
+			"doc_published": 20210624,
+			"doc_class": {
+				"class": "중앙행정기관 분류체계",
+				"code": "식품건강"
+			},
+			"created": "20220422150201",
+			"paragraphs": [
+				{
+					"context": "2021년 5월 감염관련 정기순회 결과보고\n서울특별시은평병원 간호과–854(2021.2.16.)호에 의거 5월 원내 감염관리 현황파악 및 개선활동을 위해 주 1회 정기순회를 실시하고 그 결과를 붙임과 같이 보고합니다. ○ 감염관리 정기순회 개요\n- 기간 : 2021.5.1.~ 5.31. \n- 장소 : 병동, 외래, 선별진료소 등\n- 내용 : 외래 및 병동 감염관리, 코로나19 대응현황 점검 \n- 참여 : 3명(감염관리실장 1, 담당 2)\n- 방법 : 주1회 정기순회",
+					"qas": [
+						{
+							"qa_type": 2,
+							"question_id": "5286937",
+							"question": "서울시 은평병원 간호과는 원내 감염관리 현황파악 및 개선활동을 어떻게 진행하고 있니",
+							"is_impossible": false,
+							"answers": {
+								"text": "주 1회 정기순회를 실시",
+								"answer_start": 86,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						},
+						{
+							"qa_type": 2,
+							"question_id": "5286938",
+							"question": "원내 감염관리 현황파악 및 개선활동을 서울시 은평병원 간호과가 어떻게 추진하고 있어",
+							"is_impossible": false,
+							"answers": {
+								"text": "주 1회 정기순회를 실시",
+								"answer_start": 86,
+								"clue_start": null,
+								"clue_text": null,
+								"options": null
+							}
+						}
+					],
+					"context_id": "398490"
+				}
+			]
+		}
+	]
+}
